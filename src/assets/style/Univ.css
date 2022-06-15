@@ -1,0 +1,40 @@
+.myBG{
+    height:100vh;
+    background: url("../images/main.jpg");
+    background-size: cover;
+}
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    
+}
+
+.title{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.Mosted{
+    height: 100vh;
+    background: url("../images/second-main.jpg");
+    background-size: cover;
+}
+
+.movieImage{
+    width: 350px;
+    height: 380px;
+    margin: 3px;
+    padding: 5px;
+}
+
+.cats{
+    height: 100vh;
+    background: url("../images/third-main.jpg");
+    background-size: cover;
+}
